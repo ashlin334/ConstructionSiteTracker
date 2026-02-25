@@ -1,0 +1,4 @@
+Neeraj|neeraj@|123|Owner|0987654321|InActive|
+sweety george|sweety@gmail.com|123|Owner|8592012759|Active|
+manu|manu@gmail.com|123|Owner|1234567890|Active|
+joeal|joeal@|123|Owner|3216548979|InActive|

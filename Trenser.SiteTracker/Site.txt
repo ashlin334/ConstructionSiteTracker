@@ -1,0 +1,13 @@
+S01|site1|neeraj|kollam|Amal|23|1|Active
+S02|site2|Manu|tvm|Not assigned Engineer yet|45|2|Active
+S03|site2|Manu|tvm|Not assigned Engineer yet|45|2|Active
+S04|site3|Neeraj|ptr|Akhil|45|1|Active
+S05|site4|neeraj|tvmm|Not assigned Engineer yet|23|1|Active
+S06|site6|sweety|punalur|Not assigned Engineer yet|45|1|Active
+S07|site7|sweety george|kkllmm|Not assigned Engineer yet|34|1|Active
+S08|site8||ttvvmm|Not assigned Engineer yet|34|1|Active
+S09|site9|manu|kkkk|Akhil|45|1|Active
+S10|site10|manu|iakai|Gokul|34|1|Active
+S11|site11|hari|kollam|Not assigned Engineer yet|56|2|Active
+S12|site12|joeal|e|Not assigned Engineer yet|0|1|InActive
+S13|site13|Sweety George|kolam,pzhum|Not assigned Engineer yet|23|1|Active

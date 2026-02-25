@@ -1,0 +1,5 @@
+Amal|amal@'|123|Engineer|1234567890|Active|S01,
+Akhil|akhil@|123|Engineer|1234567890|Active|S10,S09,
+Mohan|mohan@|123|Engineer|0987654321|Active|
+Gokul|gokul@|123|Engineer|1234567890|Active|S10,
+Ajumal|ajumal@|123|Engineer|5432167890|Active|

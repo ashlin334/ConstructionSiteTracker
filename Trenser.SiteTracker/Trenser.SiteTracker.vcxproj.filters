@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="FIles">
+      <UniqueIdentifier>{35c08dae-4c56-4c26-8393-9eda9ba7278a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Models">
+      <UniqueIdentifier>{196790ed-0e30-4ea0-b68c-ac72379394ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utility">
+      <UniqueIdentifier>{a256df27-a6ac-4ed5-9f64-2d7a7a7125ff}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Admin.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Engineer.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Material.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Site.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Owner.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Status.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Task.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="User.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Worker.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Trenser.SiteTracker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FileManager.cpp">
+      <Filter>Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="SiteTrackerController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exception.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Admin.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Worker.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="User.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Status.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Site.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Owner.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Material.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Engineer.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Task.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="FileManager.h">
+      <Filter>Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="SiteTrackerController.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Exception.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Worker.txt">
+      <Filter>FIles</Filter>
+    </Text>
+    <Text Include="Task.txt">
+      <Filter>FIles</Filter>
+    </Text>
+    <Text Include="Status.txt">
+      <Filter>FIles</Filter>
+    </Text>
+    <Text Include="Site.txt">
+      <Filter>FIles</Filter>
+    </Text>
+    <Text Include="Admin.txt">
+      <Filter>FIles</Filter>
+    </Text>
+    <Text Include="Engineer.txt">
+      <Filter>FIles</Filter>
+    </Text>
+    <Text Include="Material.txt">
+      <Filter>FIles</Filter>
+    </Text>
+    <Text Include="Owner.txt">
+      <Filter>FIles</Filter>
+    </Text>
+    <Text Include="User.txt">
+      <Filter>FIles</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

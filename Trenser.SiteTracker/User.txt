@@ -1,0 +1,11 @@
+Ashlin Babu|ashlin@|123|Admin|1234567890|Active|
+Amal|amal@'|123|Engineer|1234567890|Active|S01,|
+Neeraj|neeraj@|123|Owner|0987654321|Inactive|
+sweety george|sweety@gmail.com|123|Owner|8592012759|Active|
+manu|manu@gmail.com|123|Owner|1234567890|Active|
+Akhil|akhil@|123|Engineer|1234567890|Active|S10,S09,|
+Mohan|mohan@|123|Engineer|0987654321|Active||
+Gokul|gokul@|123|Engineer|1234567890|Active|S10,|
+Ajumal|ajumal@|123|Engineer|5432167890|Active||
+joeal|joeal@|123|Owner|3216548979|Inactive|
+Sweety George|sweety@|123|Admin|8592012759|Active|
